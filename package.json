@@ -5,7 +5,11 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
     "gatsby": "^4.10.2",
+    "gatsby-background-image": "^1.6.0",
+    "gatsby-plugin-emotion": "^7.10.0",
     "gatsby-plugin-gatsby-cloud": "^4.10.0",
     "gatsby-plugin-image": "^2.10.0",
     "gatsby-plugin-manifest": "^4.10.1",
@@ -13,11 +17,13 @@
     "gatsby-plugin-react-helmet": "^5.10.0",
     "gatsby-plugin-sharp": "^4.10.1",
     "gatsby-source-filesystem": "^4.10.0",
+    "gatsby-source-strapi": "^2.0.0",
     "gatsby-transformer-sharp": "^4.10.0",
     "prop-types": "^15.8.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-helmet": "^6.1.0"
+    "react-helmet": "^6.1.0",
+    "url-slug": "^3.0.3"
   },
   "devDependencies": {
     "prettier": "^2.6.0"

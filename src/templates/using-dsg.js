@@ -1,4 +1,4 @@
-import * as React from "react"
+/*import * as React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
@@ -21,3 +21,4 @@ const UsingDSG = () => (
 )
 
 export default UsingDSG
+*/
